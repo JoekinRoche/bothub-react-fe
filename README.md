@@ -1,5 +1,5 @@
 # bothub-react-fe
-A stop for all Automation Projects.
+A stop for all Automation Solutions.
 
 ## Tech Stack used
 - ReactJS (With React-Bootstrap as UI Library)
